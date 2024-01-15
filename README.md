@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-
-**lukeclimen/lukeclimen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love my wife
-
+```javascript
+const lukeClimen = {
+  name: "Luke Climenhage",
+  pronouns: "He" | "Him",
+  code: ["Javascript", "Python", "Node.js", "Java"],
+  askMeAbout: ["web dev", "startups", "finance"],
+  technologies: {
+    frontEnd: ["Vue.js", "JavaScript", "TypeScript", "React"],
+    backEnd: ["Python", "Node.js", "FastAPI", "Express"],
+    appDevelopment: ["React Native"],
+    devOps: ["Azure", "Docker"],
+    databases: ["PostgreSQL", "MongoDB"],
+  },
+  currentFocus: "Working on a backend to archive wordle games",
+  funFact:
+    "Founded two startups; one for medical device handles, another for commercial intra-canopy greenhouse lighting",
+};
+```
