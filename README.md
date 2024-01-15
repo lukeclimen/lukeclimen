@@ -30,7 +30,7 @@ const lukeClimen = {
                     flex-flow: wrap;
                     gap:20px;
                 }
-                .img {
+                img {
                     background: white;
                     width: 40px;
                     height: 40px;
@@ -39,12 +39,12 @@ const lukeClimen = {
                     box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);
                 }
             </style>
-            <p class="container">
+            <div class="container">
                 <img src="./assets/fastAPI.png" />    
                 <img src="./assets/fastAPI.png" />    
                 <img src="./assets/fastAPI.png" />    
                 <img src="./assets/fastAPI.png" />    
-            </p>
+            </div>
         </div>
     </foreignObject>
 </svg>
