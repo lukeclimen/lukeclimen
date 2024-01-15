@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋 I'm Luke. Find me [here](https://lukeclimenhage.com/).
 
 ```javascript
 const lukeClimen = {
