@@ -21,4 +21,4 @@ const lukeClimen = {
 
 ## Languages used
 
-<img src="icons.svg" width="800" height="50" alt="Icons svg">
+<img src="icons.svg" width="800" height="100" alt="Icons svg">
