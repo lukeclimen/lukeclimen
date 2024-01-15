@@ -21,67 +21,9 @@ const lukeClimen = {
 
 ## Languages used
 
-<ul style="display: flex; flex-flow: row wrap; list-style-type: none; gap: 20px">
-    <li>
-        <a href="https://fastapi.tiangolo.com/" target="_blank">
-            <div style="background: white; width: 30px; height: 30px; border-radius: 5px; box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);">
-                <img src="./assets/fastAPI.png" style="position: relative;width: 20px; height: 20px; left: 5px; top: 5px;" />
-            </div>
-        </a>
-    </li>
-    <li>
-        <a href="https://fastapi.tiangolo.com/" target="_blank">
-            <div style="background: white; width: 30px; height: 30px; border-radius: 5px; box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);">
-                <img src="./assets/fastAPI.png" style="position: relative;width: 20px; height: 20px; left: 5px; top: 5px;" />
-            </div>
-        </a>
-    </li>
-    </li>
-    <li>
-        <a href="https://fastapi.tiangolo.com/" target="_blank">
-            <div style="background: white; width: 30px; height: 30px; border-radius: 5px; box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);">
-                <img src="./assets/fastAPI.png" style="position: relative;width: 20px; height: 20px; left: 5px; top: 5px;" />
-            </div>
-        </a>
-    </li>
-    </li>
-    <li>
-        <a href="https://fastapi.tiangolo.com/" target="_blank">
-            <div style="background: white; width: 30px; height: 30px; border-radius: 5px; box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);">
-                <img src="./assets/fastAPI.png" style="position: relative;width: 20px; height: 20px; left: 5px; top: 5px;" />
-            </div>
-        </a>
-    </li>
-    </li>
-    <li>
-        <a href="https://fastapi.tiangolo.com/" target="_blank">
-            <div style="background: white; width: 30px; height: 30px; border-radius: 5px; box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);">
-                <img src="./assets/fastAPI.png" style="position: relative;width: 20px; height: 20px; left: 5px; top: 5px;" />
-            </div>
-        </a>
-    </li>
-    </li>
-    <li>
-        <a href="https://fastapi.tiangolo.com/" target="_blank">
-            <div style="background: white; width: 30px; height: 30px; border-radius: 5px; box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);">
-                <img src="./assets/fastAPI.png" style="position: relative;width: 20px; height: 20px; left: 5px; top: 5px;" />
-            </div>
-        </a>
-    </li>
-    </li>
-    <li>
-        <a href="https://fastapi.tiangolo.com/" target="_blank">
-            <div style="background: white; width: 30px; height: 30px; border-radius: 5px; box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);">
-                <img src="./assets/fastAPI.png" style="position: relative;width: 20px; height: 20px; left: 5px; top: 5px;" />
-            </div>
-        </a>
-    </li>
-    </li>
-    <li>
-        <a href="https://fastapi.tiangolo.com/" target="_blank">
-            <div style="background: white; width: 30px; height: 30px; border-radius: 5px; box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);">
-                <img src="./assets/fastAPI.png" style="position: relative;width: 20px; height: 20px; left: 5px; top: 5px;" />
-            </div>
-        </a>
-    </li>
-</ul>
+<p style="display: flex; flex-flow: row wrap; list-style-type: none; gap: 20px">
+    <img src="./assets/fastAPI.png" style="background: white; width: 30px; height: 30px; padding: 5px; border-radius: 5px; box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);" />    
+    <img src="./assets/fastAPI.png" style="background: white; width: 30px; height: 30px; padding: 5px; border-radius: 5px; box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);" />    
+    <img src="./assets/fastAPI.png" style="background: white; width: 30px; height: 30px; padding: 5px; border-radius: 5px; box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);" />    
+    <img src="./assets/fastAPI.png" style="background: white; width: 30px; height: 30px; padding: 5px; border-radius: 5px; box-shadow: 2px 2px 2px 1px rgb(0 0 0 / 20%);" />    
+</p>
