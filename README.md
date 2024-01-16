@@ -23,12 +23,24 @@ const lukeClimen = {
 
 ### Frontend:
 
-[![My Skills](https://skills.thijs.gg/icons?i=vue,js,ts,html,css,react,tailwind)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=vue)](https://vuejs.org/)
+[![My Skills](https://skills.thijs.gg/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/javascript)
+[![My Skills](https://skills.thijs.gg/icons?i=ts)](https://www.typescriptlang.org/)
+[![My Skills](https://skills.thijs.gg/icons?i=html)](https://html.com/html5/)
+[![My Skills](https://skills.thijs.gg/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![My Skills](https://skills.thijs.gg/icons?i=react)](https://react.dev/)
+[![My Skills](https://skills.thijs.gg/icons?i=tailwind)](https://tailwindcss.com/)
 
 ### Backend:
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,postgres,nodejs,mongodb)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=py)](https://www.python.org/)
+[![My Skills](https://skills.thijs.gg/icons?i=postgres)](https://www.postgresql.org/)
+[![My Skills](https://skills.thijs.gg/icons?i=nodejs)](https://nodejs.org/)
+[![My Skills](https://skills.thijs.gg/icons?i=mongodb)](https://www.mongodb.com/)
 
 ### Other:
 
-[![My Skills](https://skills.thijs.gg/icons?i=git,docker,figma,java)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=git)](https://git-scm.com/)
+[![My Skills](https://skills.thijs.gg/icons?i=docker)](https://www.docker.com/)
+[![My Skills](https://skills.thijs.gg/icons?i=figma)](https://www.figma.com/)
+[![My Skills](https://skills.thijs.gg/icons?i=java)](https://www.java.com/)
