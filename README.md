@@ -18,3 +18,17 @@ const lukeClimen = {
     "Founded two startups; one for medical device handles, another for commercial intra-canopy greenhouse lighting",
 };
 ```
+
+## Technologies Used:
+
+### Frontend:
+
+[![My Skills](https://skills.thijs.gg/icons?i=vue,js,ts,html,css,react,tailwind)](https://skills.thijs.gg)
+
+### Backend:
+
+[![My Skills](https://skills.thijs.gg/icons?i=py,postgres,nodejs,mongodb)](https://skills.thijs.gg)
+
+### Other:
+
+[![My Skills](https://skills.thijs.gg/icons?i=git,docker,figma,java)](https://skills.thijs.gg)
