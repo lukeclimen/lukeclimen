@@ -18,7 +18,3 @@ const lukeClimen = {
     "Founded two startups; one for medical device handles, another for commercial intra-canopy greenhouse lighting",
 };
 ```
-
-## Languages used
-
-<img src="icons.svg" width="800" height="100" alt="Icons svg">
