@@ -34,7 +34,9 @@ const lukeClimen = {
 ### Backend:
 
 [![My Skills](https://skills.thijs.gg/icons?i=py)](https://www.python.org/)
+[![My Skills](https://skills.thijs.gg/icons?i=fastapi)](https://fastapi.tiangolo.com/)
 [![My Skills](https://skills.thijs.gg/icons?i=postgres)](https://www.postgresql.org/)
+[![My Skills](https://skills.thijs.gg/icons?i=postman)](https://www.postman.com/)
 [![My Skills](https://skills.thijs.gg/icons?i=nodejs)](https://nodejs.org/)
 [![My Skills](https://skills.thijs.gg/icons?i=mongodb)](https://www.mongodb.com/)
 
@@ -44,3 +46,5 @@ const lukeClimen = {
 [![My Skills](https://skills.thijs.gg/icons?i=docker)](https://www.docker.com/)
 [![My Skills](https://skills.thijs.gg/icons?i=figma)](https://www.figma.com/)
 [![My Skills](https://skills.thijs.gg/icons?i=java)](https://www.java.com/)
+[![My Skills](https://skills.thijs.gg/icons?i=azure)](https://azure.microsoft.com/)
+[![My Skills](https://skills.thijs.gg/icons?i=gitlab)](https://about.gitlab.com/)
