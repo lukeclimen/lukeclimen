@@ -48,3 +48,5 @@ const lukeClimen = {
 [![My Skills](https://skills.thijs.gg/icons?i=java)](https://www.java.com/)
 [![My Skills](https://skills.thijs.gg/icons?i=azure)](https://azure.microsoft.com/)
 [![My Skills](https://skills.thijs.gg/icons?i=gitlab)](https://about.gitlab.com/)
+
+Icons powered by [Skill Icons](https://skillicons.dev)
