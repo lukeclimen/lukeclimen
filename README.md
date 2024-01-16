@@ -3,7 +3,7 @@
 ```javascript
 const lukeClimen = {
   name: "Luke Climenhage",
-  pronouns: "He" | "Him",
+  pronouns: ["He", "Him"],
   code: ["Javascript", "Python", "Node.js", "Java"],
   askMeAbout: ["web dev", "startups", "finance"],
   technologies: {
