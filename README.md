@@ -38,6 +38,7 @@ const lukeClimen = {
 [![PostgreSQL](https://skills.thijs.gg/icons?i=postgres)](https://www.postgresql.org/)
 [![Postman](https://skills.thijs.gg/icons?i=postman)](https://www.postman.com/)
 [![Node.js](https://skills.thijs.gg/icons?i=nodejs)](https://nodejs.org/)
+[![Express](https://skills.thijs.gg/icons?i=express)](https://expressjs.com/)
 [![MongoDB](https://skills.thijs.gg/icons?i=mongodb)](https://www.mongodb.com/)
 
 ### Other:
