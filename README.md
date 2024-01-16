@@ -26,10 +26,10 @@ const lukeClimen = {
 [![Vue](https://skills.thijs.gg/icons?i=vue)](https://vuejs.org/)
 [![JavaScript](https://skills.thijs.gg/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/javascript)
 [![TypeScript](https://skills.thijs.gg/icons?i=ts)](https://www.typescriptlang.org/)
+[![Tailwind](https://skills.thijs.gg/icons?i=tailwind)](https://tailwindcss.com/)
 [![HTML](https://skills.thijs.gg/icons?i=html)](https://html.com/html5/)
 [![CSS](https://skills.thijs.gg/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![React](https://skills.thijs.gg/icons?i=react)](https://react.dev/)
-[![Tailwind](https://skills.thijs.gg/icons?i=tailwind)](https://tailwindcss.com/)
 
 ### Backend:
 
