@@ -30,31 +30,31 @@ const lukeClimen = {
 
 ### Frontend:
 
-[![Vue](https://skills.thijs.gg/icons?i=vue)](https://vuejs.org/)
-[![JavaScript](https://skills.thijs.gg/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/javascript)
-[![TypeScript](https://skills.thijs.gg/icons?i=ts)](https://www.typescriptlang.org/)
-[![Tailwind](https://skills.thijs.gg/icons?i=tailwind)](https://tailwindcss.com/)
-[![HTML](https://skills.thijs.gg/icons?i=html)](https://html.com/html5/)
-[![CSS](https://skills.thijs.gg/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![React](https://skills.thijs.gg/icons?i=react)](https://react.dev/)
+[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/javascript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![HTML](https://skillicons.dev/icons?i=html)](https://html.com/html5/)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
 
 ### Backend:
 
-[![Python](https://skills.thijs.gg/icons?i=py)](https://www.python.org/)
-[![FastAPI](https://skills.thijs.gg/icons?i=fastapi)](https://fastapi.tiangolo.com/)
-[![PostgreSQL](https://skills.thijs.gg/icons?i=postgres)](https://www.postgresql.org/)
-[![Postman](https://skills.thijs.gg/icons?i=postman)](https://www.postman.com/)
-[![Node.js](https://skills.thijs.gg/icons?i=nodejs)](https://nodejs.org/)
-[![Express](https://skills.thijs.gg/icons?i=express)](https://expressjs.com/)
-[![MongoDB](https://skills.thijs.gg/icons?i=mongodb)](https://www.mongodb.com/)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 
 ### Other:
 
-[![Git](https://skills.thijs.gg/icons?i=git)](https://git-scm.com/)
-[![Docker](https://skills.thijs.gg/icons?i=docker)](https://www.docker.com/)
-[![Figma](https://skills.thijs.gg/icons?i=figma)](https://www.figma.com/)
-[![Java](https://skills.thijs.gg/icons?i=java)](https://www.java.com/)
-[![Azure](https://skills.thijs.gg/icons?i=azure)](https://azure.microsoft.com/)
-[![GitLab](https://skills.thijs.gg/icons?i=gitlab)](https://about.gitlab.com/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/)
+[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)
 
 Icons powered by [Skill Icons](https://skillicons.dev)
