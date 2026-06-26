@@ -12,15 +12,15 @@ _generated with [Platane/snk](https://github.com/Platane/snk)_
 const lukeClimen = {
   name: "Luke Climenhage",
   pronouns: ["He", "Him"],
-  askMeAbout: ["web dev", "startups", "finance"],
+  askMeAbout: ["Startups", "Web dev", "Finance"],
   technologies: {
-    frontEnd: ["Vue.js", "JavaScript", "TypeScript", "React"],
+    frontEnd: ["Vue.js", "TypeScript", "JavaScript", "React"],
     backEnd: ["Python", "Node.js", "FastAPI", "Express"],
     appDevelopment: ["React Native"],
-    devOps: ["Azure", "Docker"],
-    databases: ["PostgreSQL", "MongoDB"],
+    devOps: ["Azure", "Docker", "GitLab", "GitHub"],
+    databases: ["PostgreSQL", "MongoDB", "PrismaORM", "SQLAlchemy"],
   },
-  currentFocus: "Working on a backend to archive wordle games",
+  currentFocus: "Working on an open-source cookie banner.",
   funFact:
     "Founded two startups; one for medical device handles, another for commercial intra-canopy greenhouse lighting",
 };
